@@ -1,4 +1,3 @@
-
 # YouTube + Mood Analysis: Quantified Self Project
 
 ## 📌 Overview
@@ -27,7 +26,7 @@ This project analyzes the relationship between daily YouTube viewing behavior an
 Store your YouTube V2 API key in a `keys.json` file:
 ```json
 {
-  "youtube_api_key": "YOUR_API_KEY_HERE"
+  "youtube_api_key": "My_API"
 }
 ```
 Make sure this file is ignored by Git via `.gitignore`.
@@ -36,7 +35,8 @@ Make sure this file is ignored by Git via `.gitignore`.
 - YouTube V2 API
 - Self-recorded mood journal (CSV)
 
-## 🧑‍💻 Author
-- [Your Name]
+## 🧑‍💻 Author & Acknowledgments
+- Author: Bryan Zhang
 - Gonzaga University, CPSC 222 - Spring 2025
+- Thanks to Dr. Gina Sprint
 
